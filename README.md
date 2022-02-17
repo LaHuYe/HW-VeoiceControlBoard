@@ -1,2 +1,2 @@
-# HW-VeoiceControlBoard
-语音控制板
+# HW
+用于存储硬件PCB文档
